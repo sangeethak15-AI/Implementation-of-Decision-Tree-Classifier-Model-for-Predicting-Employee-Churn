@@ -9,9 +9,13 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm
 1. Import the required libraries.
+
 2.Upload and read the dataset
+
 3.Check for any missing value in the dataset using isnull function.
+
 4.From sklearn.tree import DecisionTreeClassifier and use criteria as entropy
+
 5.Find the accuracy of the model and predict the required values by importing the required modules from sklearn. 
 
 ## Program:
