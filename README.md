@@ -58,6 +58,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![200617343-4b606eaf-6918-46b1-a7ef-91a49bf4e4fc](https://user-images.githubusercontent.com/93992063/203684371-b01eb569-a400-447b-966d-02ce9cbe9c35.png)
 
 ![ml62](https://user-images.githubusercontent.com/93992063/198622875-45307d86-74c2-4e6c-a424-18d1a5a6bb67.png)
+
 ![200617478-f81bd031-ccdd-4d22-8295-758384740aa5](https://user-images.githubusercontent.com/93992063/203684412-3880622e-6e65-4a0b-8070-801863478cfe.png)
 
 ![200617600-5af99405-5076-49df-b9e7-e3ea8696d097](https://user-images.githubusercontent.com/93992063/203684430-368b215c-1def-4b26-ac70-f70e7967c344.png)
